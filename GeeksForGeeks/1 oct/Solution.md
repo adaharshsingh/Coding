@@ -21,8 +21,8 @@ Explanation: The first list represents the number 32, and the second list repres
 
 
 ### Constraints:
-- \(1 \leq \text{number of nodes} \leq 10^5\).
-- \(1 \leq \text{node.data} \leq 10^3\).
+- 1 <= number of nodes <= 10^5
+- 1 <= node->data <= 10^3.
 
 ### My Approach
 

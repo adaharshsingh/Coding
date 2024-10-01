@@ -1,6 +1,6 @@
 # Welcome to the Hacktoberfest 2024 Coding Repository!
 
-![Hacktoberfest Logo](./hacktoberfest_wall.png)
+![Hacktoberfest Logo](./hacktoberfest_image.png)
 
 # Introduction
 ## What is <a href="https://hacktoberfest.com/">Hacktoberfest</a>

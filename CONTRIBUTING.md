@@ -1,29 +1,24 @@
 # *01. Problem Name*
 
-The problem can be found at the following links: [GeeksforGeeks](https://www.geeksforgeeks.org/) or [LeetCode](https://leetcode.com/problemset/). 
+The problem can be found at the following links: [GeeksforGeeks](https://www.geeksforgeeks.org/problem-of-the-day) or [LeetCode](https://leetcode.com/problemset/). 
 
 ### **Important**:
 When contributing a problem, please commit from **only one** website at a time (either GeeksforGeeks or LeetCode). This ensures consistency and clarity in our documentation. Be sure to follow the structure provided in the sections below for your chosen source.
 
 
-### **Problem Statement:**:
+## Problem Statement:
 Clearly articulate the problem to be solved. Be concise and straightforward or just copy from respective websites.
 
 #### Example 1:
 
-Input:
-Output:
-Explanation:
+- Input:
+- Output:
+- Explanation:
 #### Example 2:
 
-Input:
-Output:
-Explanation:
-## Contributing to Problem Descriptions
-
-We welcome contributions to enhance the problem descriptions in our project. When writing a problem description, please follow the structure and style similar to those found on [GeeksforGeeks](https://www.geeksforgeeks.org/). This will help maintain consistency and clarity throughout our documentation.
-
-
+- Input:
+- Output:
+- Explanation:
 
 ### Constraints:
 - 
